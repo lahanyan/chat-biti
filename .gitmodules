@@ -1,3 +1,6 @@
 [submodule "java/microservices/user-service"]
 	path = java/microservices/user-service
 	url = https://github.com/ErikNuroyan/user-service.git
+[submodule "python/microservices/ml-service"]
+	path = python/microservices/ml-service
+	url = https://github.com/sahNarek/chat
