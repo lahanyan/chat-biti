@@ -4,3 +4,6 @@
 [submodule "python/microservices/ml-service"]
 	path = python/microservices/ml-service
 	url = https://github.com/sahNarek/chat
+[submodule "front-end/ai_assistant"]
+	path = front-end/ai_assistant
+	url = https://github.com/NorikKhachatryan01/ai_assistant
